@@ -18,4 +18,5 @@ Hospital Management System
 - MySQL Workbench
 
 ## Project File
-`hospital_management.sql` contains my SQL statements and queries.
+`[HMS_project.sql](https://github.com/user-attachments/files/33899466/HMS_project.sql)
+` contains my SQL statements and queries.
